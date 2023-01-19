@@ -20,6 +20,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
+import venv
 
 
 #Criando a template da Dash

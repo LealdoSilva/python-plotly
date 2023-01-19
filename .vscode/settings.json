@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/34f33535-c4c1-4c16-a169-deda5335d157/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/app-indicadores-agro",
+    "appService.deploySubpath": "."
+}
