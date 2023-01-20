@@ -20,7 +20,6 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-import venv
 
 
 #Criando a template da Dash
@@ -82,7 +81,7 @@ app.layout = html.Div(children=[
                         #". Acesso em 01/08/2022"
                    ]),
        
-            html.P("""Dashboard de Indicadores de Performance Desenvolvido Por:  Lealdo Silva Analista de Tecnologia da Informação""")
+            html.P("""Indicadores de Performance Desenvolvido Por:  Lealdo Silva Analista de T.I""")
         
             ], style={'textAlign': 'center',
                        'fontFamily' : "Roboto",
